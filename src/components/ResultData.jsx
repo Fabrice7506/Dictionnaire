@@ -1,7 +1,7 @@
 import React, { useState, useContext, useEffect } from 'react';
 import { InputContext } from '../App';
 import gif from '../assets/lg.gif';
-import Meaning from "../components/meaningList";
+import Meaning from "../components/MeaningList";
 import ExempleList from '../components/Exemple';
 import Synonyme from '../components/synonyme';
 import Antonyme from '../components/antonyme';
