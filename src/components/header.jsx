@@ -48,7 +48,7 @@ export default function Header() {
         </div>
         { inputValue && (
            <h3 className="text-gray-50 text-center mt-4">
-            Result od : <span className="text-white font-bold">{inputValue}</span>
+            Result of : <span className="text-white font-bold">{inputValue}</span>
           </h3>
         )}
         
